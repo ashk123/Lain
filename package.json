@@ -1,0 +1,15 @@
+{
+  "name": "thelainlang",
+  "version": "1.0.0",
+  "description": "Lain (forked) ---------------",
+  "main": "lain.js",
+  "scripts": {
+    "compile": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

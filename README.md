@@ -1,5 +1,7 @@
-Lain
+Lain (forked)
 ---------------
+
+This project is a fork version of _Lain_, a minimal lisp dialect
 
 Lain is a lisp dialect used within [Ronin, an experimental graphics 
 terminal][ronin]. This guide explains the Lain language. Lain does not have a 
